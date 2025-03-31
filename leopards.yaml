@@ -4,7 +4,8 @@ manager: Nora
 coach: Melissa
 
 members:
-- Thomas
-- karen
-- margaret
-- olivia
+  - Thomas
+  - karen
+  - margaret
+  - olivia
+  - Evie
